@@ -10,3 +10,10 @@ ZCZC W03 Telah melakukan task W03
 ZCZC W04 Telah melakukan task week 4
 
 ZCZC W05
+
+|Title|Description|
+|Name|Asel Hidayat Sjamhars|
+|NPM|1606839006|
+|Class|D|
+|Github|aselhid|
+|SIAK ID|asel.hidayat|
