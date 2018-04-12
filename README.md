@@ -18,3 +18,5 @@ ZCZC W05
 |Class|D|
 |Github|aselhid|
 |SIAK ID|asel.hidayat|
+
+ZCZC W06 Telah mencoba task week 6
